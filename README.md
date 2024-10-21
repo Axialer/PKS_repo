@@ -1,4 +1,4 @@
-![](https://github.com/Axialer/PKS_repo/blob/main/MIREA_Gerb_Colour.svg)
+<img src="https://github.com/Axialer/PKS_repo/blob/main/MIREA_Gerb_Colour.svg" width="200" height="200" />
 # Программирование корпоративных систем
 
 Дисциплина: Программирование корпоративных систем
