@@ -9,9 +9,9 @@
 Беспрозванный Фёдор Алексеевич
 
 # Структура репозитория
-| Правтика | Ссылка |
+| Практика | Ссылка |
 |:-------------:|:---------------:| 
-| 1 |  |
-| 2 |  |
-| 3 |  |
-| 3 | [Link](dot.com) |
+| 1 + 2 | [PR_1 PR_2](https://github.com/Axialer/PKS_repo/tree/PKS_1_2) |
+| 3 | [PR_3](https://github.com/Axialer/PKS_repo/tree/PKS_3) |
+| 4 | [PR_4](https://github.com/Axialer/PKS_repo/tree/PKS_4) |
+| 5 | [PR_5](https://github.com/Axialer/PKS_repo/tree/PKS_5) |
