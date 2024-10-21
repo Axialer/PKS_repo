@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Phone",
+    "description": "A modern smartphone with 128GB storage.",
+    "price": 599.99,
+    "image": "asettes/images/phone.png",
+    "reviews": [
+      "Great phone for its price.",
+      "Battery life could be better."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "description": "Powerful laptop with 16GB RAM and 512GB SSD.",
+    "price": 999.99,
+    "image": "asettes/images/laptop.png",
+    "reviews": [
+      "Excellent performance.",
+      "A bit heavy but very durable."
+    ]
+  }
+]
