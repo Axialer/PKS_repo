@@ -1,4 +1,6 @@
-<img src="https://github.com/Axialer/PKS_repo/blob/main/MIREA_Gerb_Colour.svg" width="400" height="400" />
+<div style="text-align: center;">
+  <img src="https://github.com/Axialer/PKS_repo/blob/main/MIREA_Gerb_Colour.svg" width="400" height="400" />
+</div>
 <h1 style="text-align: center;">Программирование корпоративных систем</h1>
 
 <p style="text-align: center;">Дисциплина: Программирование корпоративных систем<br>
