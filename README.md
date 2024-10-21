@@ -19,7 +19,7 @@
   <tbody>
     <tr>
       <td>1 + 2</td>
-      <td><a href="https://github.com/Axialer/PKS_repo/tree/PKS_1_2">PR_1 PR_2</a></td>
+      <td><a href="https://github.com/Axialer/PKS_repo/tree/PKS_1_2">PR_1 + PR_2</a></td>
     </tr>
     <tr>
       <td>3</td>
