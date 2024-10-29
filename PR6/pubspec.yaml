@@ -1,0 +1,32 @@
+name: pks
+description:
+publish_to:
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  image_picker: ^0.8.5+3
+  flutter_slidable: any
+  cupertino_icons: ^1.0.8
+  provider: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  assets:
+    - asettes/images/phone.png
+    - asettes/images/laptop.png
+  uses-material-design: true
+
+
