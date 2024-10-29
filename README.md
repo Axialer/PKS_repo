@@ -5,4 +5,4 @@
   4) добавдение большего кол-во товара в корзину
   5) Удаление товара из корзиный на странице корзины
   6) Страница корзины
-<video src='https://github.com/Axialer/PKS_repo/blob/PKS_6/Screenrecorder-2024-10-29-13-02-14-485.mp4' width=180/>
+![](https://github.com/Axialer/PKS_repo/blob/PKS_6/PR_GIF.gif)
