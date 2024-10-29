@@ -1,37 +1,8 @@
-<div style="text-align: center; margin-left: 500;">
-  <img src="https://github.com/Axialer/PKS_repo/blob/main/MIREA_Gerb_Colour.svg" width="400" height="400" />
-</div>
-<h1 style="text-align: center;">Программирование корпоративных систем</h1>
-
-<p style="text-align: center;">Дисциплина: Программирование корпоративных систем<br>
-Семестр: 5<br>
-Работы выполнил студент ЭФБО-04-22<br>
-Беспрозванный Фёдор Алексеевич</p>
-
-<h1 style="text-align: center;">Структура репозитория</h1>
-<table style="margin: 0 auto; text-align: center;">
-  <thead>
-    <tr>
-      <th>Практика</th>
-      <th>Ссылка</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1 + 2</td>
-      <td><a href="https://github.com/Axialer/PKS_repo/tree/PKS_1_2">PR_1 + PR_2</a></td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td><a href="https://github.com/Axialer/PKS_repo/tree/PKS_3">PR_3</a></td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td><a href="https://github.com/Axialer/PKS_repo/tree/PKS_4">PR_4</a></td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td><a href="https://github.com/Axialer/PKS_repo/tree/PKS_5">PR_5</a></td>
-    </tr>
-  </tbody>
-</table>
+Добавлено: 
+  1) Изменение карточки товара
+  2) Добавление в корзину
+  3) Удаление из корзины
+  4) добавдение большего кол-во товара в корзину
+  5) Удаление товара из корзиный на странице корзины
+  6) Страница корзины
+<video src='https://github.com/Axialer/PKS_repo/blob/PKS_6/Screenrecorder-2024-10-29-13-02-14-485.mp4' width=180/>
