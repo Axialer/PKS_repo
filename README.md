@@ -35,7 +35,7 @@
     </tr>
     <tr>
       <td>6</td>
-      <tb><a href="https://github.com/Axialer/PKS_repo/tree/PKS_6">PR_6</tb>
+      <td><a href="https://github.com/Axialer/PKS_repo/tree/PKS_6">PR_6</td>
     </tr>
   </tbody>
 </table>
