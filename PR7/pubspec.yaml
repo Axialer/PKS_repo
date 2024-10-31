@@ -1,0 +1,47 @@
+name: pr_7_pks
+description:
+publish_to:
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^1.0.0
+
+
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^4.0.0
+
+
+flutter:
+  fonts:
+  - family: Montserrat
+    fonts:
+      - asset: fonts/Montserrat-Regular.ttf
+      - asset: fonts/Montserrat-Bold.ttf
+        weight: 700
+  uses-material-design: true
+  assets:
+    - assets/icons/adress.png
+    - assets/icons/Cart_select.svg
+    - assets/icons/Cart.svg
+    - assets/icons/Home.svg
+    - assets/icons/Home_select.svg
+    - assets/icons/order.png
+    - assets/icons/settings.png
+    - assets/icons/user.svg
+    - assets/icons/user_select.svg
+    - assets/icons/cards.png
+
