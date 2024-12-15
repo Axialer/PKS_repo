@@ -8,4 +8,4 @@
 
 ![](https://github.com/Axialer/PKS_repo/blob/PKS_10/cart.png)
 
-![](https://github.com/Axialer/PKS_repo/blob/PKS_10/10.gif)
+![](https://github.com/Axialer/PKS_repo/blob/PKS_10/10_beta.gif)
