@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568999543433",
+    "project_id": "support-chat-efe56",
+    "storage_bucket": "support-chat-efe56.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568999543433:android:6cc745dd47bf5ef3f2fc58",
+        "android_client_info": {
+          "package_name": "com.admin_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-fZGYjjUm_90aGVFWsea7xcLKZqoOKn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
