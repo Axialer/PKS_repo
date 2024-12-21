@@ -5,7 +5,9 @@
 ## Результаты
 
 ***Со стороны пользователя***
+
 ![](https://github.com/Axialer/PKS_repo/blob/PKS_14_15/chat_user_video.gif)
 
 ***Со стороны администратора (и как это видит юзер)***
+
 ![](https://github.com/Axialer/PKS_repo/blob/PKS_14_15/chat_admin_video.gif)
